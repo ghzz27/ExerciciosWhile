@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Ex1/Ex1.csproj" />
+  <Project Path="Ex2/Ex2.csproj" />
+  <Project Path="Ex3/Ex3.csproj" />
+  <Project Path="Ex4/Ex4.csproj" />
+  <Project Path="Ex5/Ex5.csproj" Id="d66cba86-8769-4835-9b17-cb63ec490452" />
+</Solution>
